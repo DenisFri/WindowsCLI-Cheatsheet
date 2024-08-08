@@ -1,6 +1,7 @@
 # Windows CLI Cheatsheet
 
 ## Commands
-- [Commands](commands.md)
+- [commands](commands.md)
 
 ## Advanced commands
+- [advanced-commands](advanced-commands.md)
