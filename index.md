@@ -1,8 +1,6 @@
-# My Cheat Sheet
+# Windows CLI Cheatsheet
 
-## Command 1
-Description of command 1.
+## Commands
+- [Commands](commands.md)
 
-## Command 2
-Description of command 2.
-
+## Advanced commands

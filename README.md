@@ -7,7 +7,6 @@ Welcome to the Windows CLI Cheatsheet! This repository contains useful commands 
 - [Introduction](#introduction)
 - [Basic Commands](#basic-commands)
 - [Advanced Commands](#advanced-commands)
-- [Additional Resources](#additional-resources)
 
 ## Introduction
 
@@ -33,15 +32,11 @@ For more advanced usage, consider the following commands:
 
 Explore advanced commands in detail on the [Advanced Commands Page](advanced-commands.md).
 
-## Additional Resources
-
-- [Official Microsoft Documentation](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
-- [GitHub Pages](https://pages.github.com/)
 
 ## Links to GitHub Pages
 
-- [Cheat Sheet Home](https://your-username.github.io/WindowsCLI-Cheatsheet)
-- [Commands Page](https://your-username.github.io/WindowsCLI-Cheatsheet/commands)
-- [Advanced Commands Page](https://your-username.github.io/WindowsCLI-Cheatsheet/advanced-commands)
+- [Cheat Sheet Home](https://DenisFri.github.io/WindowsCLI-Cheatsheet)
+- [Commands Page](https://DenisFri.github.io/WindowsCLI-Cheatsheet/commands)
+- [Advanced Commands Page](https://DenisFri.github.io/WindowsCLI-Cheatsheet/advanced-commands)
 
 Feel free to contribute by opening issues or submitting pull requests.
